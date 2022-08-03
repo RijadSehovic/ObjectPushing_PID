@@ -1,0 +1,12 @@
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:35:19:[m[K [01;31m[Kerror: [m[K‘[01m[Kpid[m[K’ in namespace ‘[01m[Kcontrol_toolbox[m[K’ does not name a type; did you mean ‘[01m[KPid[m[K’?
+   35 |  control_toolbox::[01;31m[Kpid[m[K my_Pid_x;
+      |                   [01;31m[K^~~[m[K
+      |                   [32m[KPid[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:36:19:[m[K [01;31m[Kerror: [m[K‘[01m[Kpid[m[K’ in namespace ‘[01m[Kcontrol_toolbox[m[K’ does not name a type; did you mean ‘[01m[KPid[m[K’?
+   36 |  control_toolbox::[01;31m[Kpid[m[K my_Pid_y;
+      |                   [01;31m[K^~~[m[K
+      |                   [32m[KPid[m[K
+make[2]: *** [CMakeFiles/rto_local_move_client_node.dir/build.make:63: CMakeFiles/rto_local_move_client_node.dir/src/rto_local_move_client_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:250: CMakeFiles/rto_local_move_client_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

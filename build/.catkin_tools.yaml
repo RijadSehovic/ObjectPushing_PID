@@ -1,0 +1,6 @@
+devel_space: /home/azra/catkin_ws_projekatRobotino/devel
+install: false
+install_space: /home/azra/catkin_ws_projekatRobotino/install
+profile: default
+source_space: /home/azra/catkin_ws_projekatRobotino/src
+workspace: /home/azra/catkin_ws_projekatRobotino

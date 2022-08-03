@@ -1,0 +1,1 @@
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_node/share/rto_node/cmake/rto_nodeConfig-version.cmake

@@ -1,0 +1,16 @@
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:158:64:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::Pose[m[K’ {aka ‘[01m[Kstruct geometry_msgs::Pose_<std::allocator<void> >[m[K’} has no member named ‘[01m[Kx[m[K’
+  158 |             dRLOT = distancePoints(orthogonal_projection_robot.[01;31m[Kx[m[K, orthogonal_projection_robot.y, robot.x, robot.y);
+      |                                                                [01;31m[K^[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:158:95:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::Pose[m[K’ {aka ‘[01m[Kstruct geometry_msgs::Pose_<std::allocator<void> >[m[K’} has no member named ‘[01m[Ky[m[K’
+  158 |             dRLOT = distancePoints(orthogonal_projection_robot.x, orthogonal_projection_robot.[01;31m[Ky[m[K, robot.x, robot.y);
+      |                                                                                               [01;31m[K^[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:158:104:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::Pose[m[K’ {aka ‘[01m[Kstruct geometry_msgs::Pose_<std::allocator<void> >[m[K’} has no member named ‘[01m[Kx[m[K’
+  158 |             dRLOT = distancePoints(orthogonal_projection_robot.x, orthogonal_projection_robot.y, robot.[01;31m[Kx[m[K, robot.y);
+      |                                                                                                        [01;31m[K^[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:158:113:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::Pose[m[K’ {aka ‘[01m[Kstruct geometry_msgs::Pose_<std::allocator<void> >[m[K’} has no member named ‘[01m[Ky[m[K’
+  158 |             dRLOT = distancePoints(orthogonal_projection_robot.x, orthogonal_projection_robot.y, robot.x, robot.[01;31m[Ky[m[K);
+      |                                                                                                                 [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/rto_local_move_client_node.dir/build.make:63: CMakeFiles/rto_local_move_client_node.dir/src/rto_local_move_client_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:250: CMakeFiles/rto_local_move_client_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

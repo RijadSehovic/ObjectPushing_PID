@@ -1,0 +1,12 @@
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:42:48:[m[K [01;31m[Kerror: [m[K‘[01m[Kmodel_position[m[K’ was not declared in this scope; did you mean ‘[01m[Kstart_model_position[m[K’?
+   42 |         k = (final_model_position.position.y - [01;31m[Kmodel_position[m[K.position.y)/(final_model_position.position.x - model_position.position.x);
+      |                                                [01;31m[K^~~~~~~~~~~~~~[m[K
+      |                                                [32m[Kstart_model_position[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:47:9:[m[K [01;31m[Kerror: [m[K‘[01m[Ke1[m[K’ was not declared in this scope; did you mean ‘[01m[Ky1[m[K’?
+   47 |         [01;31m[Ke1[m[K.position.x = final_model_position.position.x - start_model_position.position.x;
+      |         [01;31m[K^~[m[K
+      |         [32m[Ky1[m[K
+make[2]: *** [CMakeFiles/rto_local_move_client_node.dir/build.make:63: CMakeFiles/rto_local_move_client_node.dir/src/rto_local_move_client_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:233: CMakeFiles/rto_local_move_client_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

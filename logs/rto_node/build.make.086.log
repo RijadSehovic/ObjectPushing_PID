@@ -1,0 +1,5 @@
+[ 14%] Built target rto_camera_node
+[ 14%] Built target rto_msgs_generate_messages_cpp
+[ 28%] Built target rto_laserrangefinder_node
+[ 42%] Built target rto_odometry_node
+[100%] Built target rto_node

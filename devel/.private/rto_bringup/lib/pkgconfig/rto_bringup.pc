@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_bringup
+
+Name: rto_bringup
+Description: Description of rto_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

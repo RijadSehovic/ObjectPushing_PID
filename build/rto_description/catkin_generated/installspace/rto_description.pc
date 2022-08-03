@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_projekatRobotino/install
+
+Name: rto_description
+Description: Description of rto_description
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

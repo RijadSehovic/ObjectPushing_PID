@@ -1,0 +1,74 @@
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:[m[K In static member function ‘[01m[Kstatic void RTOLocalMoveClient::pushingObjectPosition()[m[K’:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:82:5:[m[K [01;31m[Kerror: [m[Kinvalid use of member ‘[01m[KRTOLocalMoveClient::client2[m[K’ in static member function
+   82 |     [01;31m[Kclient2[m[K = nh_.serviceClient<gazebo_msgs::GetModelState>("/gazebo/get_model_state");
+      |     [01;31m[K^~~~~~~[m[K
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:29:21:[m[K [01;36m[Knote: [m[Kdeclared here
+   29 |  ros::ServiceClient [01;36m[Kclient2[m[K;
+      |                     [01;36m[K^~~~~~~[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:82:15:[m[K [01;31m[Kerror: [m[Kinvalid use of member ‘[01m[KRTOLocalMoveClient::nh_[m[K’ in static member function
+   82 |     client2 = [01;31m[Knh_[m[K.serviceClient<gazebo_msgs::GetModelState>("/gazebo/get_model_state");
+      |               [01;31m[K^~~[m[K
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:27:18:[m[K [01;36m[Knote: [m[Kdeclared here
+   27 |  ros::NodeHandle [01;36m[Knh_[m[K;
+      |                  [01;36m[K^~~[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:82:59:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K>[m[K’ token
+   82 |     client2 = nh_.serviceClient<gazebo_msgs::GetModelState[01;31m[K>[m[K("/gazebo/get_model_state");
+      |                                                           [01;31m[K^[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:88:13:[m[K [01;31m[Kerror: [m[Kinvalid use of member ‘[01m[KRTOLocalMoveClient::pushed_model[m[K’ in static member function
+   88 |             [01;31m[Kpushed_model[m[K.request.model_name = (std::string) "link";
+      |             [01;31m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:30:29:[m[K [01;36m[Knote: [m[Kdeclared here
+   30 |  gazebo_msgs::GetModelState [01;36m[Kpushed_model[m[K;
+      |                             [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:90:16:[m[K [01;31m[Kerror: [m[Kinvalid use of member ‘[01m[KRTOLocalMoveClient::client2[m[K’ in static member function
+   90 |             if([01;31m[Kclient2[m[K.call(pushed_model) && pushed_model.response.success){
+      |                [01;31m[K^~~~~~~[m[K
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:29:21:[m[K [01;36m[Knote: [m[Kdeclared here
+   29 |  ros::ServiceClient [01;36m[Kclient2[m[K;
+      |                     [01;36m[K^~~~~~~[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:90:29:[m[K [01;31m[Kerror: [m[Kinvalid use of member ‘[01m[KRTOLocalMoveClient::pushed_model[m[K’ in static member function
+   90 |             if(client2.call([01;31m[Kpushed_model[m[K) && pushed_model.response.success){
+      |                             [01;31m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:30:29:[m[K [01;36m[Knote: [m[Kdeclared here
+   30 |  gazebo_msgs::GetModelState [01;36m[Kpushed_model[m[K;
+      |                             [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:90:46:[m[K [01;31m[Kerror: [m[Kinvalid use of member ‘[01m[KRTOLocalMoveClient::pushed_model[m[K’ in static member function
+   90 |             if(client2.call(pushed_model) && [01;31m[Kpushed_model[m[K.response.success){
+      |                                              [01;31m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:30:29:[m[K [01;36m[Knote: [m[Kdeclared here
+   30 |  gazebo_msgs::GetModelState [01;36m[Kpushed_model[m[K;
+      |                             [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:92:17:[m[K [01;31m[Kerror: [m[Kinvalid use of member ‘[01m[KRTOLocalMoveClient::model_position[m[K’ in static member function
+   92 |                 [01;31m[Kmodel_position[m[K = pushed_model.response.pose;
+      |                 [01;31m[K^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:31:22:[m[K [01;36m[Knote: [m[Kdeclared here
+   31 |  geometry_msgs::Pose [01;36m[Kmodel_position[m[K;
+      |                      [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:92:34:[m[K [01;31m[Kerror: [m[Kinvalid use of member ‘[01m[KRTOLocalMoveClient::pushed_model[m[K’ in static member function
+   92 |                 model_position = [01;31m[Kpushed_model[m[K.response.pose;
+      |                                  [01;31m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:30:29:[m[K [01;36m[Knote: [m[Kdeclared here
+   30 |  gazebo_msgs::GetModelState [01;36m[Kpushed_model[m[K;
+      |                             [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:93:49:[m[K [01;31m[Kerror: [m[Kinvalid use of member ‘[01m[KRTOLocalMoveClient::model_position[m[K’ in static member function
+   93 |                 std::cout << "Pozicija je: " << [01;31m[Kmodel_position[m[K;
+      |                                                 [01;31m[K^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:8[m[K:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/include/RTOLocalMoveClient.h:31:22:[m[K [01;36m[Knote: [m[Kdeclared here
+   31 |  geometry_msgs::Pose [01;36m[Kmodel_position[m[K;
+      |                      [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:[m[K At global scope:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:102:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+  102 | [01;31m[K}[m[K
+      | [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/rto_local_move_client_node.dir/build.make:76: CMakeFiles/rto_local_move_client_node.dir/src/RTOLocalMoveClient.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:233: CMakeFiles/rto_local_move_client_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

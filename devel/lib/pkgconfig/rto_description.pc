@@ -1,0 +1,1 @@
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_description/lib/pkgconfig/rto_description.pc

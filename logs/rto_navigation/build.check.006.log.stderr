@@ -1,0 +1,3 @@
+CMake Error: The source directory "/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_navigation" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+make: *** [Makefile:1104: cmake_check_build_system] Error 1

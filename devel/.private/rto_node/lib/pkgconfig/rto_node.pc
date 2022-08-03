@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_node
+
+Name: rto_node
+Description: Description of rto_node
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: image_transport nav_msgs rto_msgs tf

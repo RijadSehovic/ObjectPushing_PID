@@ -1,0 +1,5 @@
+rto_simulation/rto_bringup_sim
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_bringup_sim/cmake.lock /home/azra/catkin_ws_projekatRobotino/devel/./cmake.lock
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_bringup_sim/share/rto_bringup_sim/cmake/rto_bringup_simConfig-version.cmake /home/azra/catkin_ws_projekatRobotino/devel/share/rto_bringup_sim/cmake/rto_bringup_simConfig-version.cmake
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_bringup_sim/share/rto_bringup_sim/cmake/rto_bringup_simConfig.cmake /home/azra/catkin_ws_projekatRobotino/devel/share/rto_bringup_sim/cmake/rto_bringup_simConfig.cmake
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_bringup_sim/lib/pkgconfig/rto_bringup_sim.pc /home/azra/catkin_ws_projekatRobotino/devel/lib/pkgconfig/rto_bringup_sim.pc

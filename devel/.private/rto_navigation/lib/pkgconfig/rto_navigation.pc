@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_navigation
+
+Name: rto_navigation
+Description: Description of rto_navigation
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

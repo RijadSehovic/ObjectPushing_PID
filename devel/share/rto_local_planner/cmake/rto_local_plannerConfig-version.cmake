@@ -1,0 +1,1 @@
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_local_planner/share/rto_local_planner/cmake/rto_local_plannerConfig-version.cmake

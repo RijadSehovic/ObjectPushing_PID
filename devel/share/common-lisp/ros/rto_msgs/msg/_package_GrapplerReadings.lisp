@@ -1,0 +1,1 @@
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_msgs/share/common-lisp/ros/rto_msgs/msg/_package_GrapplerReadings.lisp

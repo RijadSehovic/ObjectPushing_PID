@@ -1,0 +1,7 @@
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/rto_local_move_client_node.cpp:19:9:[m[K [01;31m[Kerror: [m[K‘[01m[Knh_[m[K’ was not declared in this scope
+   19 |         [01;31m[Knh_[m[K.
+      |         [01;31m[K^~~[m[K
+make[2]: *** [CMakeFiles/rto_local_move_client_node.dir/build.make:63: CMakeFiles/rto_local_move_client_node.dir/src/rto_local_move_client_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:233: CMakeFiles/rto_local_move_client_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

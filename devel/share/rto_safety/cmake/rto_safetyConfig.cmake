@@ -1,0 +1,1 @@
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_safety/share/rto_safety/cmake/rto_safetyConfig.cmake

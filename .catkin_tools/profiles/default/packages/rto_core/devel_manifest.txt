@@ -1,0 +1,2 @@
+rto_core/rto_core
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_core/cmake.lock /home/azra/catkin_ws_projekatRobotino/devel/./cmake.lock

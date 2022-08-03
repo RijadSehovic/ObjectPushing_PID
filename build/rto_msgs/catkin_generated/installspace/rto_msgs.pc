@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_projekatRobotino/install
+
+Name: rto_msgs
+Description: Description of rto_msgs
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime geometry_msgs std_msgs

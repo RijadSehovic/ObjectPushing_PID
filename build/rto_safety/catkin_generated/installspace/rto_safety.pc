@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_projekatRobotino/install
+
+Name: rto_safety
+Description: Description of rto_safety
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs laser_geometry rto_node sensor_msgs std_msgs tf visualization_msgs

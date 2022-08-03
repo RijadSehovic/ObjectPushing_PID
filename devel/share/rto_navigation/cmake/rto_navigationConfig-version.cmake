@@ -1,0 +1,1 @@
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_navigation/share/rto_navigation/cmake/rto_navigationConfig-version.cmake

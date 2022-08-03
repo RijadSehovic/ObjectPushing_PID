@@ -1,0 +1,31 @@
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target _rto_local_move_generate_messages_check_deps_LocalMoveFeedback
+[  0%] Built target _rto_local_move_generate_messages_check_deps_LocalMoveActionFeedback
+[  0%] Built target _rto_local_move_generate_messages_check_deps_LocalMoveActionGoal
+[  0%] Built target _rto_local_move_generate_messages_check_deps_LocalMoveResult
+[  0%] Built target _rto_local_move_generate_messages_check_deps_LocalMoveAction
+[  0%] Built target _rto_local_move_generate_messages_check_deps_LocalMoveGoal
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target _rto_local_move_generate_messages_check_deps_LocalMoveActionResult
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target rto_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target gazebo_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[ 16%] Built target rto_local_move_generate_messages_cpp
+[ 32%] Built target rto_local_move_generate_messages_lisp
+[ 51%] Built target rto_local_move_generate_messages_py
+[ 67%] Built target rto_local_move_generate_messages_nodejs
+[ 86%] Built target rto_local_move_generate_messages_eus
+[ 93%] Built target rto_local_move_client_node
+[100%] Built target rto_local_move_server_node
+[100%] Built target rto_local_move_generate_messages

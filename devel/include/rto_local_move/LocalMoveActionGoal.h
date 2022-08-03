@@ -1,0 +1,1 @@
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_local_move/include/rto_local_move/LocalMoveActionGoal.h

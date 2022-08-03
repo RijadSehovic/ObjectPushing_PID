@@ -1,0 +1,6 @@
+[01m[K/home/azra/catkin_ws_projekatRobotino/src/rto_core/rto_local_move/src/RTOLocalMoveClient.cpp:102:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+  102 | [01;31m[K}[m[K
+      | [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/rto_local_move_client_node.dir/build.make:76: CMakeFiles/rto_local_move_client_node.dir/src/RTOLocalMoveClient.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:233: CMakeFiles/rto_local_move_client_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

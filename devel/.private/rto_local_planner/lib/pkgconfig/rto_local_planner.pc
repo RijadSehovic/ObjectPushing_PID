@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_local_planner
+
+Name: rto_local_planner
+Description: Description of rto_local_planner
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: costmap_2d geometry_msgs nav_core nav_msgs pluginlib tf tf2_geometry_msgs tf2_ros tf2_sensor_msgs

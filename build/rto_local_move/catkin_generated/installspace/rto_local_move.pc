@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_projekatRobotino/install
+
+Name: rto_local_move
+Description: Description of rto_local_move
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: actionlib actionlib_msgs geometry_msgs nav_msgs rto_node std_msgs tf rto_msgs gazebo_msgs control_toolbox

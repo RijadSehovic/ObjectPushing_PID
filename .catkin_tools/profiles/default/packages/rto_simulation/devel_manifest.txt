@@ -1,0 +1,2 @@
+rto_simulation/rto_simulation
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_simulation/cmake.lock /home/azra/catkin_ws_projekatRobotino/devel/./cmake.lock

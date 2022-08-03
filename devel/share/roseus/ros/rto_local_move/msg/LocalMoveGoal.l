@@ -1,0 +1,1 @@
+/home/azra/catkin_ws_projekatRobotino/devel/.private/rto_local_move/share/roseus/ros/rto_local_move/msg/LocalMoveGoal.l
